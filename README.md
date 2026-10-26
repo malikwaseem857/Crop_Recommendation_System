@@ -1,4 +1,4 @@
-Crop Recommendation System
+**Crop Recommendation System**
 **Overview**
 This project focuses on building a predictive model for recommending the most suitable crops to grow in a particular farm based on various soil and climate parameters. The dataset used for this project includes information on nitrogen (N), phosphorous (P), potassium (K) content in soil, temperature, humidity, pH value of the soil, and rainfall.
 
